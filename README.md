@@ -1,3 +1,5 @@
+#No edits made - walkthrough code
+
 
 # Displaying Has Many Through Rails
 
